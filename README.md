@@ -14,6 +14,8 @@ The software (that I will eventually write) will be for ESPHome as its very easy
 
 The biggest cost for this project would be the BME680 sensor as it costs about 10$
 
+I made this project becuase I wanted to make an all capable sensor for Home Assistant.
+
 ## Images
   ![](./images/SCR-20260110-qhxa.png)
   ![](./images/SCR-20260110-qida.png)
