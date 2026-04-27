@@ -9,7 +9,7 @@
 </h1>
 
 <div align="center">
-  <a href="https://kicad.org"><img src="https://img.shields.io/badge/KiCad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad">
+  <a href="https://kicad.org"><img src="https://img.shields.io/badge/KiCad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad"></a>
   <a href="https://www.espressif.com/en/products/socs/esp32"><img src="https://img.shields.io/badge/ESP32-%23E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"></a>
   <a href="https://www.home-assistant.io/"><img src="https://img.shields.io/badge/Home%20Assistant-%2341BDF5.svg?style=for-the-badge&logo=homeassistant&logoColor=white" alt="Home Assistant"></a>
   <a href="https://hackclub.com"><img src="https://img.shields.io/badge/Hack_Club-%23EC3750?style=for-the-badge&logo=hackclub&logoColor=white"></a>
